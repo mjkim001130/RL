@@ -1,3 +1,6 @@
+<p aligin="center">
+  <img src="">
+</p>
 
 ## Documents
 
