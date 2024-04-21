@@ -1,2 +1,2 @@
-# RL
-RL code in colab
+# RL Algorithm
+RL code will be update!
