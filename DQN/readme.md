@@ -1,5 +1,5 @@
-<p aligin="center">
-  <img src=(https://github.com/mjkim001130/RL/assets/79756320/1db659da-a9bd-490e-8ac5-0ba0e8ee342f)">
+<p align="center">
+<img width="548" alt="image" src="https://github.com/mjkim001130/RL/assets/79756320/c86aa537-67e2-4c8b-99cb-7bb5e3eee017">
 </p>
 
 ## Documents
